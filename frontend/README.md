@@ -63,8 +63,8 @@ A full-stack task management application built with **React** for the frontend, 
 #### Backend Setup
 1. Clone the repository to your local machine:
    ```bash
-   git clone <repository_url>
-   cd <repository_name>
+   git clone https://github.com/Deepak-C-Choudhary/task-manager
+   cd task-manager
    ```
 2. Navigate to the backend folder and install dependencies:
    ```bash
